@@ -26,6 +26,6 @@ Detailed changes for each release are documented in the [release notes](./Change
 * [Latest Release](https://github.com/aliyun/alibabacloud-go-sdk/)
 
 ## License
-[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)
+[Apache-2.0](https://github.com/alibabacloud-go/cr-20160607/blob/master/LICENSE)
 
 Copyright (c) 2009-present, Alibaba Cloud All rights reserved.
